@@ -2903,21 +2903,6 @@
     },
     {
       "chainId": 1,
-      "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
-      "name": "ETH 2x Flexible Leverage Index",
-      "symbol": "ETH2X-FLI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14392/thumb/ETH2x-FLI_%281%29.png?1615875910",
-      "extensions": {
-        "bridgeInfo": {
-          "137": {
-            "tokenAddress": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 1,
       "address": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
       "name": "Euler",
       "symbol": "EUL",
@@ -15299,21 +15284,6 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
-      "name": "ETH 2x Flexible Leverage Index",
-      "symbol": "ETH2X-FLI",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14392/thumb/ETH2x-FLI_%281%29.png?1615875910",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD"
           }
         }
       }
