@@ -1,10 +1,10 @@
 {
   "name": "Uniswap Labs Extended",
-  "timestamp": "2023-03-06T16:42:54.844Z",
+  "timestamp": "2023-05-02T18:27:59.806Z",
   "version": {
-    "major": 4,
-    "minor": 0,
-    "patch": 1
+    "major": 6,
+    "minor": 1,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -135,24 +135,6 @@
       "symbol": "AERGO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/4490/thumb/aergo.png?1647696770"
-    },
-    {
-      "chainId": 1,
-      "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
-      "name": "Ankr Reward Bearing Staked ETH",
-      "symbol": "aETHc",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1625756490",
-      "extensions": {
-        "bridgeInfo": {
-          "137": {
-            "tokenAddress": "0xC4e82BA0Fe6763cbE5E9CbCA0ba7cbD6F91C6018"
-          },
-          "42161": {
-            "tokenAddress": "0x11DA74C50227eC79b786FAa6090Fa5C9Ad65f156"
-          }
-        }
-      }
     },
     {
       "chainId": 1,
@@ -468,6 +450,24 @@
       }
     },
     {
+      "chainId": 1,
+      "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0xC4e82BA0Fe6763cbE5E9CbCA0ba7cbD6F91C6018"
+          },
+          "42161": {
+            "tokenAddress": "0x11DA74C50227eC79b786FAa6090Fa5C9Ad65f156"
+          }
+        }
+      }
+    },
+    {
       "name": "Aragon",
       "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
       "symbol": "ANT",
@@ -525,6 +525,21 @@
       "symbol": "APY",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13041/thumb/1*AvkD-OLocausbxqUzezZ0A.png?1604577922"
+    },
+    {
+      "chainId": 1,
+      "name": "Arbitrum",
+      "address": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://arbitrum.foundation/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "42161": {
+            "tokenAddress": "0x912CE59144191C1204E64559FE8253a0e49E6548"
+          }
+        }
+      }
     },
     {
       "chainId": 1,
@@ -1220,6 +1235,9 @@
           },
           "137": {
             "tokenAddress": "0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0"
+          },
+          "42161": {
+            "tokenAddress": "0xE33e92A9463DC5b86c72cA76e3c0D41118E18EB5"
           }
         }
       }
@@ -2129,6 +2147,9 @@
           },
           "137": {
             "tokenAddress": "0x048c83a1176A1d3d12cb8C305179D360B1E4C958"
+          },
+          "42161": {
+            "tokenAddress": "0xdaf69e281A30b15E387e27Fb334c4116C0a87709"
           }
         }
       }
@@ -2423,6 +2444,9 @@
         "bridgeInfo": {
           "56": {
             "tokenAddress": "0x2F29Bc0FFAF9bff337b31CBe6CB5Fb3bf12e5840"
+          },
+          "42161": {
+            "tokenAddress": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6"
           }
         }
       }
@@ -2903,6 +2927,21 @@
     },
     {
       "chainId": 1,
+      "address": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD",
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2X-FLI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14392/thumb/ETH2x-FLI_%281%29.png?1615875910",
+      "extensions": {
+        "bridgeInfo": {
+          "137": {
+            "tokenAddress": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1,
       "address": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
       "name": "Euler",
       "symbol": "EUL",
@@ -2969,7 +3008,14 @@
       "name": "Exponential Capital",
       "symbol": "EXPO",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/23409/thumb/expo.png?1645856094"
+      "logoURI": "https://assets.coingecko.com/coins/images/23409/thumb/expo.png?1645856094",
+      "extensions": {
+        "bridgeInfo": {
+          "42161": {
+            "tokenAddress": "0xFade183A047E0A2C6032dAce2902B418bfFD1d77"
+          }
+        }
+      }
     },
     {
       "chainId": 1,
@@ -2982,6 +3028,9 @@
         "bridgeInfo": {
           "137": {
             "tokenAddress": "0x56B1c1e028c2E0a8852906E1eE7730ED67A3D9Bb"
+          },
+          "42161": {
+            "tokenAddress": "0xC70C0Bb31c25106e2F8630BEAfCe197ADe8014a7"
           }
         }
       }
@@ -3247,6 +3296,9 @@
           },
           "137": {
             "tokenAddress": "0x0cdf14B01692c57fD8d066A053B3A0FA0Aa2Fc11"
+          },
+          "42161": {
+            "tokenAddress": "0x855E54ec1b4c1aaF6e8E55527E48b8CC7683A41b"
           }
         }
       }
@@ -4050,6 +4102,9 @@
           },
           "137": {
             "tokenAddress": "0xdF00c50a3daE240860F57b77508203B8D9593283"
+          },
+          "42161": {
+            "tokenAddress": "0xbcB1B228C32c6e789Da128D9a166eD73a6df9ac9"
           }
         }
       }
@@ -4819,7 +4874,14 @@
       "name": "LORDS",
       "symbol": "LORDS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/22171/thumb/Frame_1.png?1642334107"
+      "logoURI": "https://assets.coingecko.com/coins/images/22171/thumb/Frame_1.png?1642334107",
+      "extensions": {
+        "bridgeInfo": {
+          "42161": {
+            "tokenAddress": "0x37405Ee3b95Bf50D75D63c80BaA3efE69A9cB283"
+          }
+        }
+      }
     },
     {
       "chainId": 1,
@@ -5741,6 +5803,9 @@
         "bridgeInfo": {
           "137": {
             "tokenAddress": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E"
+          },
+          "42161": {
+            "tokenAddress": "0xc5AcdA26592F39ca830D786eC57EB9f049BD3DE4"
           }
         }
       }
@@ -6373,6 +6438,21 @@
         "bridgeInfo": {
           "42161": {
             "tokenAddress": "0x996900D6c518949b922436e8a838127f10adD7f7"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+      "extensions": {
+        "bridgeInfo": {
+          "42161": {
+            "tokenAddress": "0x35E6A59F786d9266c7961eA28c7b768B33959cbB"
           }
         }
       }
@@ -7319,6 +7399,9 @@
           },
           "137": {
             "tokenAddress": "0xdD4959cd915AE74DCD3F51e11e40Fe112aC7AA69"
+          },
+          "42161": {
+            "tokenAddress": "0xc6dca65c906eC97478e6165a0354273df4EBFeB8"
           }
         }
       }
@@ -7525,6 +7608,9 @@
         "bridgeInfo": {
           "137": {
             "tokenAddress": "0x120cA63f5F79B6760324B1ddE6BeA4C7F01FBa0E"
+          },
+          "42161": {
+            "tokenAddress": "0x94a73A7e90B38A14E7Eddfd56c33634a3E5B4D12"
           }
         }
       }
@@ -9263,6 +9349,9 @@
         "bridgeInfo": {
           "137": {
             "tokenAddress": "0x0769C9a377a285DBCb5a66326fA90aE330E5F6D3"
+          },
+          "42161": {
+            "tokenAddress": "0x34948Bdef7351eCc5A2C9Be92cA9C2ce9c886862"
           }
         }
       }
@@ -9677,15 +9766,15 @@
     },
     {
       "chainId": 1,
-      "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+      "address": "0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE",
       "name": "Offshift",
       "symbol": "XFT",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1614570441",
       "extensions": {
         "bridgeInfo": {
-          "137": {
-            "tokenAddress": "0x9EC5AbD7A442B8325F529daB25019674D0ba983d"
+          "56": {
+            "tokenAddress": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20"
           }
         }
       }
@@ -9762,6 +9851,9 @@
         "bridgeInfo": {
           "56": {
             "tokenAddress": "0x180cFBE9843d79BcAFcbcDF23590247793DFc95B"
+          },
+          "42161": {
+            "tokenAddress": "0x4D9DAd725352d83d5C5f3d407cb89913E153416d"
           }
         }
       }
@@ -13385,6 +13477,21 @@
     },
     {
       "chainId": 56,
+      "address": "0xe138c66982Fd5c890c60b94FDBa1747faF092c20",
+      "name": "Offshift",
+      "symbol": "XFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1614570441",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x76BC677d444f1E9d57dAf5187ee2b7dC852745aE"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 56,
       "address": "0x180cFBE9843d79BcAFcbcDF23590247793DFc95B",
       "name": "PolkaFantasy",
       "symbol": "XP",
@@ -13484,21 +13591,6 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0xC4e82BA0Fe6763cbE5E9CbCA0ba7cbD6F91C6018",
-      "name": "Ankr Reward Bearing Staked ETH",
-      "symbol": "aETHc",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1625756490",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb"
           }
         }
       }
@@ -13724,6 +13816,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xC4e82BA0Fe6763cbE5E9CbCA0ba7cbD6F91C6018",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb"
           }
         }
       }
@@ -15290,6 +15397,21 @@
     },
     {
       "chainId": 137,
+      "address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
+      "name": "ETH 2x Flexible Leverage Index",
+      "symbol": "ETH2X-FLI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14392/thumb/ETH2x-FLI_%281%29.png?1615875910",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xAa6E8127831c9DE45ae56bB1b0d4D4Da6e5665BD"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
       "address": "0x8a037dbcA8134FFc72C362e394e35E0Cad618F85",
       "name": "Euro Coin",
       "symbol": "EUROC",
@@ -16754,6 +16876,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x0000000000000000000000000000000000001010",
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0"
           }
         }
       }
@@ -19551,21 +19688,6 @@
     },
     {
       "chainId": 137,
-      "address": "0x9EC5AbD7A442B8325F529daB25019674D0ba983d",
-      "name": "Offshift",
-      "symbol": "XFT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11977/thumb/CsBrPiA.png?1614570441",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
       "address": "0x77A3840F78E4685afaf9c416B36E6EAe6122567B",
       "name": "xFund",
       "symbol": "XFUND",
@@ -19821,21 +19943,6 @@
     },
     {
       "chainId": 42161,
-      "address": "0x11DA74C50227eC79b786FAa6090Fa5C9Ad65f156",
-      "name": "Ankr Reward Bearing Staked ETH",
-      "symbol": "aETHc",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1625756490",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 42161,
       "address": "0xceE84Bf3106Ded890B9730E2b89F4A4dA84ad387",
       "name": "Angle Protocol",
       "symbol": "AGEUR",
@@ -19971,6 +20078,21 @@
     },
     {
       "chainId": 42161,
+      "address": "0x11DA74C50227eC79b786FAa6090Fa5C9Ad65f156",
+      "name": "Ankr Staked ETH",
+      "symbol": "ankrETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1625756490",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0x74885b4D524d497261259B38900f54e6dbAd2210",
       "name": "ApeCoin",
       "symbol": "APE",
@@ -19995,6 +20117,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "name": "Arbitrum",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://arbitrum.foundation/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB50721BCf8d664c30412Cfbc6cf7a15145234ad1"
           }
         }
       }
@@ -20190,6 +20327,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x0391D2021f89DC339F60Fff84546EA23E337750f"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xE33e92A9463DC5b86c72cA76e3c0D41118E18EB5",
+      "name": "Forj",
+      "symbol": "BONDLY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13322/thumb/FORJ_twitter_twitter-linked_in_profile_%281%29.png?1653026729",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9"
           }
         }
       }
@@ -20421,6 +20573,21 @@
     },
     {
       "chainId": 42161,
+      "address": "0xdaf69e281A30b15E387e27Fb334c4116C0a87709",
+      "name": "DAO Maker",
+      "symbol": "DAO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13915/thumb/4.png?1612838831",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0xAE6e3540E97b0b9EA8797B157B510e133afb6282",
       "name": "DEGEN Index",
       "symbol": "DEGEN",
@@ -20490,6 +20657,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
+      "name": "DOLA",
+      "symbol": "DOLA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14287/thumb/anchor-logo-1-200x200.png?1615275005",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x865377367054516e17014CcdED1e7d814EDC9ce4"
           }
         }
       }
@@ -20676,6 +20858,36 @@
     },
     {
       "chainId": 42161,
+      "address": "0xFade183A047E0A2C6032dAce2902B418bfFD1d77",
+      "name": "Exponential Capital",
+      "symbol": "EXPO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/23409/thumb/expo.png?1645856094",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xcFAF8EDCEA94eBAA080DC4983C3f9BE5701D6613"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0xC70C0Bb31c25106e2F8630BEAfCe197ADe8014a7",
+      "name": "e-Radix",
+      "symbol": "EXRD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13145/thumb/exrd_logo.png?1605662677",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0x8553d254Cb6934b16F87D2e486b64BbD24C83C70",
       "name": "Harvest Finance",
       "symbol": "FARM",
@@ -20775,6 +20987,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x853d955aCEf822Db058eb8505911ED77F175b99e"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x855E54ec1b4c1aaF6e8E55527E48b8CC7683A41b",
+      "name": "Ferrum Network",
+      "symbol": "FRM",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/8251/thumb/frm.png?1563777564",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C"
           }
         }
       }
@@ -21021,6 +21248,21 @@
     },
     {
       "chainId": 42161,
+      "address": "0xbcB1B228C32c6e789Da128D9a166eD73a6df9ac9",
+      "name": "Popsicle Finance",
+      "symbol": "ICE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14586/thumb/ice.png?1617188825",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xf16e81dce15B08F326220742020379B855B87DF9"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0x61cA9D186f6b9a793BC08F6C79fd35f205488673",
       "name": "Illuvium",
       "symbol": "ILV",
@@ -21165,6 +21407,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0xf4d2888d29D722226FafA5d9B24F9164c092421E"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x37405Ee3b95Bf50D75D63c80BaA3efE69A9cB283",
+      "name": "LORDS",
+      "symbol": "LORDS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/22171/thumb/Frame_1.png?1642334107",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x686f2404e77Ab0d9070a46cdfb0B7feCDD2318b0"
           }
         }
       }
@@ -21471,6 +21728,21 @@
     },
     {
       "chainId": 42161,
+      "address": "0xc5AcdA26592F39ca830D786eC57EB9f049BD3DE4",
+      "name": "Nexo",
+      "symbol": "NEXO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3695/thumb/nexo.png?1548086057",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0xBE06ca305A5Cb49ABf6B1840da7c42690406177b",
       "name": "NKN",
       "symbol": "NKN",
@@ -21645,6 +21917,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x35E6A59F786d9266c7961eA28c7b768B33959cbB",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x6982508145454Ce325dDbE47a25d4ec3d2311933"
           }
         }
       }
@@ -21981,6 +22268,21 @@
     },
     {
       "chainId": 42161,
+      "address": "0xc6dca65c906eC97478e6165a0354273df4EBFeB8",
+      "name": "RFOX",
+      "symbol": "RFOX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12956/thumb/rfox.png?1642926902",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0xef888bcA6AB6B1d26dbeC977C455388ecd794794",
       "name": "Rari Governance Token",
       "symbol": "RGT",
@@ -22065,6 +22367,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x94a73A7e90B38A14E7Eddfd56c33634a3E5B4D12",
+      "name": "Revolution Populi",
+      "symbol": "RVP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14772/thumb/vsd0Wnc2_400x400.png?1618369912",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a"
           }
         }
       }
@@ -22596,6 +22913,21 @@
     },
     {
       "chainId": 42161,
+      "address": "0x34948Bdef7351eCc5A2C9Be92cA9C2ce9c886862",
+      "name": "Verasity",
+      "symbol": "VRA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14025/thumb/VRA.jpg?1613797653",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xF411903cbC70a74d22900a5DE66A2dda66507255"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
       "address": "0xe69b658b832aB161ef775fB42D64EEc34C9F5B31",
       "name": "Wasder",
       "symbol": "WAS",
@@ -22680,6 +23012,21 @@
         "bridgeInfo": {
           "1": {
             "tokenAddress": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 42161,
+      "address": "0x4D9DAd725352d83d5C5f3d407cb89913E153416d",
+      "name": "PolkaFantasy",
+      "symbol": "XP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/18299/thumb/XP_Token_Icon.png?1631498467",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x948c70Dc6169Bfb10028FdBE96cbC72E9562b2Ac"
           }
         }
       }
