@@ -5,31 +5,43 @@
         "optimism": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "arbitrum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "gnosis": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
-        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
+        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "base": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
       },
       "optimism": {
         "ethereum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "arbitrum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "gnosis": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
-        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
+        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "base": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
       },
       "arbitrum": {
         "ethereum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "optimism": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "gnosis": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
-        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
+        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "base": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
       },
       "gnosis": {
         "ethereum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "arbitrum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "optimism": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
-        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
+        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "base": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
       },
       "polygon": {
         "ethereum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "arbitrum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
         "gnosis": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
-        "optimism": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
+        "optimism": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "base": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
+      },
+      "base": {
+        "ethereum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "arbitrum": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "gnosis": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "optimism": "0xa6a688F107851131F0E1dce493EbBebFAf99203e",
+        "polygon": "0xa6a688F107851131F0E1dce493EbBebFAf99203e"
       }
     },
     "USDT": {
@@ -80,34 +92,34 @@
     },
     "DAI": {
       "ethereum": {
-        "optimism": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "arbitrum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "gnosis": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "polygon": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af"
+        "optimism": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "arbitrum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "gnosis": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "polygon": "0x9298dfD8A0384da62643c2E98f437E820029E75E"
       },
       "optimism": {
-        "ethereum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "arbitrum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "gnosis": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "polygon": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af"
+        "ethereum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "arbitrum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "gnosis": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "polygon": "0x9298dfD8A0384da62643c2E98f437E820029E75E"
       },
       "arbitrum": {
-        "ethereum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "optimism": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "gnosis": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "polygon": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af"
+        "ethereum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "optimism": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "gnosis": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "polygon": "0x9298dfD8A0384da62643c2E98f437E820029E75E"
       },
       "gnosis": {
-        "ethereum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "arbitrum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "optimism": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "polygon": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af"
+        "ethereum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "arbitrum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "optimism": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "polygon": "0x9298dfD8A0384da62643c2E98f437E820029E75E"
       },
       "polygon": {
-        "ethereum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "arbitrum": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "gnosis": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af",
-        "optimism": "0x10b6CbDFE187c04d63F179B87067C49e7a1E91Af"
+        "ethereum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "arbitrum": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "gnosis": "0x9298dfD8A0384da62643c2E98f437E820029E75E",
+        "optimism": "0x9298dfD8A0384da62643c2E98f437E820029E75E"
       }
     },
     "ETH": {
@@ -116,42 +128,56 @@
         "arbitrum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "gnosis": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "polygon": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
-        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
+        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "base": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
       },
       "optimism": {
         "ethereum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "arbitrum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "gnosis": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "polygon": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
-        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
+        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "base": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
       },
       "arbitrum": {
         "ethereum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "optimism": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "gnosis": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "polygon": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
-        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
+        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "base": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
       },
       "gnosis": {
         "ethereum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "arbitrum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "optimism": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "polygon": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
-        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
+        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "base": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
       },
       "polygon": {
         "ethereum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "arbitrum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "gnosis": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "optimism": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
-        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
+        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "base": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
       },
       "nova": {
         "ethereum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "arbitrum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "gnosis": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
         "optimism": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
-        "polygon": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
+        "polygon": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "base": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
+      },
+      "base": {
+        "ethereum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "arbitrum": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "gnosis": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "optimism": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "polygon": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564",
+        "nova": "0x710bDa329b2a6224E4B44833DE30F38E7f81d564"
       }
     },
     "HOP": {
@@ -159,31 +185,57 @@
         "optimism": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "arbitrum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "gnosis": "0x881296Edcb252080bd476c464cEB521d08df7631",
-        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631"
+        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "nova": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "base": "0x881296Edcb252080bd476c464cEB521d08df7631"
       },
       "optimism": {
         "ethereum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "arbitrum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "gnosis": "0x881296Edcb252080bd476c464cEB521d08df7631",
-        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631"
+        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "nova": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "base": "0x881296Edcb252080bd476c464cEB521d08df7631"
       },
       "arbitrum": {
         "ethereum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "optimism": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "gnosis": "0x881296Edcb252080bd476c464cEB521d08df7631",
-        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631"
+        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "nova": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "base": "0x881296Edcb252080bd476c464cEB521d08df7631"
       },
       "gnosis": {
         "ethereum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "arbitrum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "optimism": "0x881296Edcb252080bd476c464cEB521d08df7631",
-        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631"
+        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "nova": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "base": "0x881296Edcb252080bd476c464cEB521d08df7631"
       },
       "polygon": {
         "ethereum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "arbitrum": "0x881296Edcb252080bd476c464cEB521d08df7631",
         "gnosis": "0x881296Edcb252080bd476c464cEB521d08df7631",
-        "optimism": "0x881296Edcb252080bd476c464cEB521d08df7631"
+        "optimism": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "nova": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "base": "0x881296Edcb252080bd476c464cEB521d08df7631"
+      },
+      "nova": {
+        "ethereum": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "arbitrum": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "gnosis": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "optimism": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "base": "0x881296Edcb252080bd476c464cEB521d08df7631"
+      },
+      "base": {
+        "ethereum": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "arbitrum": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "gnosis": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "optimism": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "polygon": "0x881296Edcb252080bd476c464cEB521d08df7631",
+        "nova": "0x881296Edcb252080bd476c464cEB521d08df7631"
       }
     },
     "SNX": {
@@ -204,16 +256,30 @@
     },
     "rETH": {
       "ethereum": {
-        "optimism": "0x2A6303e6b99d451Df3566068EBb110708335658f",
-        "arbitrum": "0x2A6303e6b99d451Df3566068EBb110708335658f"
+        "optimism": "0xD38B96277df34F1f7ac5965F86016E7d02c4Ca94",
+        "arbitrum": "0xD38B96277df34F1f7ac5965F86016E7d02c4Ca94"
       },
       "optimism": {
-        "ethereum": "0x2A6303e6b99d451Df3566068EBb110708335658f",
-        "arbitrum": "0x2A6303e6b99d451Df3566068EBb110708335658f"
+        "ethereum": "0xD38B96277df34F1f7ac5965F86016E7d02c4Ca94",
+        "arbitrum": "0xD38B96277df34F1f7ac5965F86016E7d02c4Ca94"
       },
       "arbitrum": {
-        "ethereum": "0x2A6303e6b99d451Df3566068EBb110708335658f",
-        "optimism": "0x2A6303e6b99d451Df3566068EBb110708335658f"
+        "ethereum": "0xD38B96277df34F1f7ac5965F86016E7d02c4Ca94",
+        "optimism": "0xD38B96277df34F1f7ac5965F86016E7d02c4Ca94"
+      }
+    },
+    "MAGIC": {
+      "ethereum": {
+        "arbitrum": "0xa251E7519cbCf76e33D4672d2218e3CbcCEB6d60",
+        "nova": "0xa251E7519cbCf76e33D4672d2218e3CbcCEB6d60"
+      },
+      "arbitrum": {
+        "ethereum": "0xa251E7519cbCf76e33D4672d2218e3CbcCEB6d60",
+        "nova": "0xa251E7519cbCf76e33D4672d2218e3CbcCEB6d60"
+      },
+      "nova": {
+        "ethereum": "0xa251E7519cbCf76e33D4672d2218e3CbcCEB6d60",
+        "arbitrum": "0xa251E7519cbCf76e33D4672d2218e3CbcCEB6d60"
       }
     }
   },
@@ -232,6 +298,9 @@
       "gnosis": [
         "0x5D13179c5fa40b87D53Ff67ca26245D3D5B2F872",
         "0x636A7ee78faCd079DaBC8f81EDA1D09AA9D440A7"
+      ],
+      "base": [
+        "0x7aC115536FE3A185100B2c4DE4cb328bf3A58Ba6"
       ]
     },
     "USDT": {
@@ -285,6 +354,9 @@
       "gnosis": [
         "0xC61bA16e864eFbd06a9fe30Aab39D18B8F63710a",
         "0x712F0cf37Bdb8299D0666727F73a5cAbA7c1c24c"
+      ],
+      "base": [
+        "0x12e59C59D282D2C00f3166915BED6DC2F5e2B5C7"
       ]
     },
     "SNX": {
@@ -305,6 +377,14 @@
       ],
       "optimism": [
         "0x266e2dc3C4c59E42AA07afeE5B09E964cFFe6778"
+      ]
+    },
+    "MAGIC": {
+      "arbitrum": [
+        "0x4e9840f3C1ff368a10731D15c11516b9Fe7E1898"
+      ],
+      "nova": [
+        "0xeB35Dac45077319042D62a735aa0f9eDD1F01Fa6"
       ]
     }
   },
@@ -368,6 +448,18 @@
         "l2SaddleSwap": "0x10541b07d8Ad2647Dc6cD67abd4c03575dade261",
         "l2SaddleLpToken": "0xB67c014FA700E69681a673876eb8BAFAA36BFf71",
         "bridgeDeployedBlockNumber": 440027
+      },
+      "base": {
+        "l1CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l1MessengerWrapper": "0x4a55e8e407609A3046804ca500BeF6F5ebaCb6F9",
+        "l2CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l2CanonicalToken": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+        "l2Bridge": "0x46ae9BaB8CEA96610807a275EBD36f8e916b5C61",
+        "l2HopBridgeToken": "0x74fa978EaFFa312bC92e76dF40FcC1bFE7637Aeb",
+        "l2AmmWrapper": "0x7D269D3E0d61A05a0bA976b7DBF8805bF844AF3F",
+        "l2SaddleSwap": "0x022C5cE6F1Add7423268D41e08Df521D5527C2A0",
+        "l2SaddleLpToken": "0x3b507422EBe64440f03BCbE5EEe4bdF76517f320",
+        "bridgeDeployedBlockNumber": 2077758
       }
     },
     "USDT": {
@@ -600,6 +692,18 @@
         "l2SaddleSwap": "0x9908109e51D093cF17ef945Df2C62cb17cB877c4",
         "l2SaddleLpToken": "0x82f9EC21C1FB86F2B31734e27F695199E996f41E",
         "bridgeDeployedBlockNumber": 1724464
+      },
+      "base": {
+        "l1CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l1MessengerWrapper": "0x17B5ACE1cD6b0d033431873826937F499Eec2C95",
+        "l2CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l2CanonicalToken": "0x4200000000000000000000000000000000000006",
+        "l2Bridge": "0x3666f603Cc164936C1b87e207F36BEBa4AC5f18a",
+        "l2HopBridgeToken": "0xC1985d7a3429cDC85E59E2E4Fcc805b857e6Ee2E",
+        "l2AmmWrapper": "0x10541b07d8Ad2647Dc6cD67abd4c03575dade261",
+        "l2SaddleSwap": "0x0ce6c85cF43553DE10FC56cecA0aef6Ff0DD444d",
+        "l2SaddleLpToken": "0xe9605BEc1c5C3E81F974F80b8dA9fBEFF4845d4D",
+        "bridgeDeployedBlockNumber": 1397238
       }
     },
     "HOP": {
@@ -661,6 +765,30 @@
         "l2SaddleSwap": "0x0000000000000000000000000000000000000000",
         "l2SaddleLpToken": "0x0000000000000000000000000000000000000000",
         "bridgeDeployedBlockNumber": 26088165
+      },
+      "nova": {
+        "l1CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l1MessengerWrapper": "0xEbC49b236ff1920C788eF3c0687A3A1B6fCB35f1",
+        "l2CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l2CanonicalToken": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "l2Bridge": "0x02D47f76523d2f059b617E4346de67482792eB83",
+        "l2HopBridgeToken": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "l2AmmWrapper": "0x0000000000000000000000000000000000000000",
+        "l2SaddleSwap": "0x0000000000000000000000000000000000000000",
+        "l2SaddleLpToken": "0x0000000000000000000000000000000000000000",
+        "bridgeDeployedBlockNumber": 15937602
+      },
+      "base": {
+        "l1CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l1MessengerWrapper": "0x86eD3B8AD6b721fD3a2Fa73c227987Fb9AD3D1Ae",
+        "l2CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l2CanonicalToken": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "l2Bridge": "0xe22D2beDb3Eca35E6397e0C6D62857094aA26F52",
+        "l2HopBridgeToken": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "l2AmmWrapper": "0x0000000000000000000000000000000000000000",
+        "l2SaddleSwap": "0x0000000000000000000000000000000000000000",
+        "l2SaddleLpToken": "0x0000000000000000000000000000000000000000",
+        "bridgeDeployedBlockNumber": 1859764
       }
     },
     "SNX": {
@@ -730,6 +858,37 @@
         "l2SaddleSwap": "0x0Ded0d521AC7B0d312871D18EA4FDE79f03Ee7CA",
         "l2SaddleLpToken": "0xbBA837dFFB3eCf4638D200F11B8c691eA641AdCb",
         "bridgeDeployedBlockNumber": 85020329
+      }
+    },
+    "MAGIC": {
+      "ethereum": {
+        "l1CanonicalToken": "0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A",
+        "l1Bridge": "0xf074540eb83c86211F305E145eB31743E228E57d",
+        "bridgeDeployedBlockNumber": 17445930
+      },
+      "arbitrum": {
+        "l1CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l1MessengerWrapper": "0xa0c37738582E63B383E609624423d052BFA4b316",
+        "l2CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l2CanonicalToken": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "l2Bridge": "0xEa5abf2C909169823d939de377Ef2Bf897A6CE98",
+        "l2HopBridgeToken": "0xB76e673EBC922b1E8f10303D0d513a9E710f5c4c",
+        "l2AmmWrapper": "0x50a3a623d00fd8b8a4F3CbC5aa53D0Bc6FA912DD",
+        "l2SaddleSwap": "0xFFe42d3Ba79Ee5Ee74a999CAd0c60EF1153F0b82",
+        "l2SaddleLpToken": "0x163A9E12787dBFa2836caa549aE02ed67F73e7C2",
+        "bridgeDeployedBlockNumber": 99536351
+      },
+      "nova": {
+        "l1CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l1MessengerWrapper": "0x9051Dc48d27dAb53DbAB9E844f8E48c469603938",
+        "l2CanonicalBridge": "0x0000000000000000000000000000000000000000",
+        "l2CanonicalToken": "0xe8936ac97A85d708d5312D52C30c18d4533b8A9c",
+        "l2Bridge": "0xE638433e2C1dF5f7a3a21b0a6b5c4b37278e55DC",
+        "l2HopBridgeToken": "0xE3B4A0a9904d75A0334893989D06814AD969d80f",
+        "l2AmmWrapper": "0x40C8fdFf725b20862e22953AFfa0bBaf42D4B467",
+        "l2SaddleSwap": "0xAB2D307E9563Faa3b935784fE7a32BE3868399A6",
+        "l2SaddleLpToken": "0x8F0F3AA48591470F8C260E8b6E9c775cD1F02bDC",
+        "bridgeDeployedBlockNumber": 11559944
       }
     }
   }
